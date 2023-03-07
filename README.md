@@ -3,8 +3,6 @@
 
 
 
-
-
 2 Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores.
 
 
@@ -74,5 +72,5 @@ string_invertida = ""
 for i in range(len(string)-1, -1, -1):
     string_invertida += string[i]
 
-# Impressão da string invertida
+//impressao invertida
 print(string_invertida)
