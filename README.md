@@ -17,6 +17,8 @@ if num in fib:
 else:
     printf("O número {num} não pertence à sequência de Fibonacci.")
 
+
+
 3 Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
 
 import json
