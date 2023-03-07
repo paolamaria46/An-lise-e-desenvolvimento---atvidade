@@ -1,5 +1,10 @@
 # An-lise-e-desenvolvimento---atvidade
 
+
+
+
+
+
 2 Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores.
 
 
@@ -30,6 +35,10 @@ printf("Número de dias com faturamento acima da média mensal: {dias_acima_medi
 
 
 
+
+
+
+
 4 Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 
 
@@ -47,6 +56,9 @@ for estado, valor in faturamento.items():
 // Impressão dos resultados
 for estado, percentual in percentuais.items():
     printf{“estado}: {percentual:.2f}%")
+
+
+
 
 
 
